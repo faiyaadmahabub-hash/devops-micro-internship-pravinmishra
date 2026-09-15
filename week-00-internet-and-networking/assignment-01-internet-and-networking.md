@@ -25,16 +25,43 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/Chatgpt_Response1.png
+)
+
+
+
+
+![Task 1 Screenshot](screenshots/Chatgpt_Response3.png
+)
+
+
+
+
+
+![Task 1 Screenshot](screenshots/Chatgpt_Response1.png
+)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
-## What I Learned (2–3 lines)
+## What I Learned (2–3 lines)...
+Protocol is a set of riules that devices follow when communicating with each other where it is like a language set of manners when two computers wants to exchange information they agree on a set of rules that follow:
+How to start the conversation
 
-Add your answer here...
+
+How to send the informati
+
+on
+How to understand the inform
+
+ation
+What to do when something go
+
+es wrong
+How to finish the communication
+
 
 ---
 
@@ -59,7 +86,12 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user visits the EpicReads website hosted in Finland, the request travels through the Internet using **packet switching**. This means the data is divided into small packets, which travel through different network paths and are reassembled at the destination.
+
+Every device connected to the Internet has an **IP address**, which works like a unique address that helps identify and locate the EpicReads server. The communication between the user and server is managed by the **TCP/IP protocol suite**. TCP ensures that data packets arrive correctly and in order, while IP handles addressing and routing.
+
+When users open the website, their browser uses **HTTP/HTTPS** protocols to request and securely receive web pages from the server. HTTPS provides encryption, protecting information exchanged between users and EpicReads.
+
 
 ---
 
@@ -91,7 +123,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/task-3-application-architecture.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +134,21 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js – A JavaScript library used to build interactive user interfaces.
+* Angular – A framework for developing structured web applications.
 
+* HTML/CSS/JavaScript – Core web technologies used for creating webpage structure, styling, and client-side functionality.
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js with Express – Node.js + Express.js – A backend runtime and framework used to build APIs, handle server-side logic, and communicate between the frontend and database.
+* Java Spring Boot – A Java-based framework used for developing secure and scalable backend services.
+*Django – A Python web framework used for rapid development of backend applications with built-in security features. 
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL – A relational database management system used to store structured application data using tables and SQL queries..
+* PostgreSQL – An advanced open-source relational database known for reliability, scalability, and complex data handling.
+* MongoDB – A NoSQL document database used for storing flexible, JSON-like data structures.
 
 ---
 
@@ -142,7 +177,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is a system that converts human-readable domain names into IP addresses that computers use to identify servers on the Internet. Instead of remembering a numeric IP address such as 52.172.142.222, users can access the website using the easier-to-remember domain name epicreads.com.
+
+To connect epicreads.com to the server's IP address, an A record should be used because it maps a domain name to an IPv4 address. The DNS A record will point epicreads.com to 52.172.142.222, allowing users to access the EpicReads website through its domain name.
 
 ---
 
@@ -209,7 +246,7 @@ Clearly structure your post into the following sections:
 
 Add the following credit note at the end of your post:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://github.com/faiyaadmahabub-hash/devops-micro-internship-pravinmishra.git · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 ---
 
@@ -227,7 +264,38 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 0 — Internet and Networking Fundamentals
+
+I recently completed Week 0 of the DevOps Micro Internship (DMI) — Cohort 3, where I focused on building a foundation in Internet and Networking concepts.
+
+This week helped me understand several important areas:
+
+ChatGPT as a Learning Assistant
+I explored how effective prompting can help simplify technical concepts. As part of the task, I learned how networking protocols define the rules devices follow when communicating with each other.
+
+Internet and Networking
+I studied packet switching, IP addressing, TCP/IP, and HTTP/HTTPS to understand how data moves between users and remote servers across the Internet.
+
+Application Architecture
+I learned the difference between two-tier and three-tier application architectures and the responsibilities of the frontend, backend, and database layers. I also explored technologies such as React.js, Angular, Node.js, Spring Boot, MySQL, PostgreSQL, and MongoDB.
+
+DNS
+I learned how the Domain Name System translates human-readable domain names into IP addresses and how DNS records are used to connect domains with servers.
+
+VS Code Setup
+I configured Visual Studio Code, worked with the integrated terminal, and practiced basic command-line operations.
+
+This first week gave me a clearer picture of how applications communicate, how different layers work together, and why networking knowledge is important for DevOps.
+
+Next, I look forward to developing these fundamentals further through hands-on work with Linux, cloud technologies, containers, automation, and CI/CD.
+
+Mentors:
+@Pravin M]
+@[Your Group Co-Mentor 2]
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+#DMIByPravinMishra #DevOps #AgenticAI
 
 ---
 
@@ -235,19 +303,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts and application architecture easy to understand, especially after relating them to practical examples such as how users connect to a website and how frontend, backend, and database layers work together.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The most difficult part was understanding how different networking concepts such as packet switching, TCP/IP, DNS, and HTTP/HTTPS work together during real communication between a user and a server..
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to spend more time on hands-on practice, especially using the command line and understanding networking concepts in real scenarios instead of only learning the theory.
 
 ---
 
