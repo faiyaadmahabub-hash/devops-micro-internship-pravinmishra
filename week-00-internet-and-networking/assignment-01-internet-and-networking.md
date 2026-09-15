@@ -274,45 +274,49 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/gVGZH2cb
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
-
 Week 0 — Internet and Networking Fundamentals
 
 I recently completed Week 0 of the DevOps Micro Internship (DMI) — Cohort 3, where I focused on building a foundation in Internet and Networking concepts.
-
-This week helped me understand several important areas:
+ 
+This week helped me understand how modern applications communicate, how different system layers work together, and how developers interact with essential tools.
 
 ChatGPT as a Learning Assistant
-I explored how effective prompting can help simplify technical concepts. As part of the task, I learned how networking protocols define the rules devices follow when communicating with each other.
 
-Internet and Networking
-I studied packet switching, IP addressing, TCP/IP, and HTTP/HTTPS to understand how data moves between users and remote servers across the Internet.
+I explored how effective prompting can help simplify technical concepts. I learned how networking protocols define the rules that allow devices to communicate and exchange information reliably.
 
-Application Architecture
-I learned the difference between two-tier and three-tier application architectures and the responsibilities of the frontend, backend, and database layers. I also explored technologies such as React.js, Angular, Node.js, Spring Boot, MySQL, PostgreSQL, and MongoDB.
+Internet & Networking
+
+I studied important networking concepts including packet switching, IP addressing, TCP/IP, and HTTP/HTTPS to understand how data travels between users and servers across the Internet.
+
+App Architecture
+
+I learned the differences between two-tier and three-tier application architectures and how frontend, backend, and database layers work together. I also explored common technologies used in these layers, including React.js, Angular, Node.js, Spring Boot, MySQL, PostgreSQL, and MongoDB.
 
 DNS
-I learned how the Domain Name System translates human-readable domain names into IP addresses and how DNS records are used to connect domains with servers.
+
+I learned how the Domain Name System helps translate human-readable names into network addresses and how DNS records connect users with online services.
 
 VS Code Setup
-I configured Visual Studio Code, worked with the integrated terminal, and practiced basic command-line operations.
 
-This first week gave me a clearer picture of how applications communicate, how different layers work together, and why networking knowledge is important for DevOps.
+I configured my Visual Studio Code environment, practiced using the integrated terminal, and became more familiar with command-line workflows.
+ 
+This first week provided me with a stronger understanding of the foundations behind software infrastructure and DevOps practices.
+ 
+I look forward to building on these concepts through hands-on learning in Linux, cloud technologies, containers, automation, and CI/CD.
 
-Next, I look forward to developing these fundamentals further through hands-on work with Linux, cloud technologies, containers, automation, and CI/CD.
+Mentor:
+Pravin Mishra
+Co Mentor:
+Anjana Muthunayake
 
-Mentors:
-@Pravin M]
-@[Your Group Co-Mentor 2]
-
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/gVBiu7wW · Start your DevOps journey: https://lnkd.in/gtxEiPiv
 
 #DMIByPravinMishra #DevOps #AgenticAI
 
