@@ -131,8 +131,9 @@ Week 00 → Internet & Networking Basics
 ## Weekly Progress
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
-|------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | 🔄 In Progress | ⏳ Pending | — | — |
+|------|-------|--------|------------|---------------|-----------
+|
+| 00 | Internet & Networking Basics | ✅ Completed| ✅ Solved| https://lnkd.in/p/gVGZH2cb |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
