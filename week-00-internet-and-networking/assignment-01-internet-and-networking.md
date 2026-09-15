@@ -1,6 +1,6 @@
 # Week 00 - Internet and Networking
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -244,10 +244,29 @@ Clearly structure your post into the following sections:
 * DNS
 * VS Code Setup
 
-Add the following credit note at the end of your post:
+Use the credit note that matches your track:
+
+Add the following credit note at the end of your post **(If you are DMI Cohort 3 student)**:
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://github.com/faiyaadmahabub-hash/devops-micro-internship-pravinmishra.git · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
+**Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
+
+Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
+
+Add the following credit note at the end of your post **(If you are DMI Campus student)**:
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
+
+**Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
+
+Hashtags:
+
+#DMIByPravinMishra #AgenticAI #DevOps
+
+Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 ---
 
 ## LinkedIn Post URL
@@ -338,4 +357,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*

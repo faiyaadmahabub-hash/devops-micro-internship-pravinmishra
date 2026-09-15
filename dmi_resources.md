@@ -29,6 +29,7 @@ Use the P.S. line for **your track**.
 | Cohort 3 (Live) |
 | DMI-Foundation Track |
 | DMI-Self-Paced Engineer Track |
+| DMI-Self-Paced Engineer Track (DMI Campus) |
 
 ### Cohort 3 (Live) Track
 
@@ -63,6 +64,18 @@ Use the P.S. line for **your track**.
 > **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: `https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html` · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced**
 
 **Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post.**
+
+### DMI-Self-Paced Engineer Track (DMI Campus)
+
+**For LinkedIn posts:**
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: `https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html` · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
+
+**For blog posts:**
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: `https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html` · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
+
+**Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
 
 Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 
@@ -408,13 +421,13 @@ Week-8 is **6 assignment files**, each graded pass/fail — your LinkedIn post a
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-9 Class Recording | Watch the recording of the Week-9 live class on YouTube | - |
+| 1 | Week-9 Class Recording | Watch the recording of the Week-9 live class on YouTube | [YouTube](https://youtube.com/live/QOqrfVFacpc?feature=share) |
 
 ---
 
 ### Week 9: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - __**
+* **Deadline - 11 September 2026**
 
 Week-9 is **6 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
@@ -436,13 +449,13 @@ Week-9 is **6 assignment files**, each graded pass/fail — your LinkedIn post a
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-10 Class Recording | Watch the recording of the Week-10 live class on YouTube | - |
+| 1 | Week-10 Class Recording | Watch the recording of the Week-10 live class on YouTube | https://youtube.com/live/ns7ipNLS0C8?feature=share |
 
 ---
 
 ### Week 10: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - __**
+* **Deadline - 18 September 2026**
 
 Week-10 is **5 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 

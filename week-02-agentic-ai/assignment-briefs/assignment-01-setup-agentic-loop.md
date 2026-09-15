@@ -29,6 +29,7 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 - Fork and clone the course starter repository
 - Observe the three phases of the Agentic Loop: Gather, Act, Verify
 - Understand how Claude Code differs from Claude chat
+- Share your first Agentic AI achievement with your professional network
 
 ---
 
@@ -135,6 +136,42 @@ How many lines of CSS does this project have?
 
 ---
 
+### Task 4 — Share Your First Agentic AI Achievement
+
+**Goal:** Celebrate your first Agentic AI session and share your learning progress with your professional network.
+
+Great work—you have successfully completed your first Agentic AI session! You installed Claude Code, explored a real project, and observed the **Gather → Act → Verify** Agentic Loop in action.
+
+Now, share this achievement on LinkedIn.
+
+**Steps:**
+
+1. Go to the **DMI Leaderboard**.
+2. Find your name on the leaderboard.
+3. You can see the **Share your progress** section under your name.
+4. Click the **LinkedIn icon**.
+5. Share your progress using the caption below. Make sure the DMI Leaderboard link or achievement card is included in your post.
+
+**LinkedIn Caption:**
+
+I’ve completed my first Agentic AI session as part of DMI! 🚀
+
+I installed and authenticated Claude Code, explored a real project, and observed the Agentic Loop - Gather, Act, and Verify in action.
+
+This is my first step toward using Agentic AI in real-world DevOps workflows.
+
+You can view my learning progress on the DMI Leaderboard.
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode
+
+**Expected Output:** A published LinkedIn post sharing your achievement and DMI Leaderboard progress.
+
+**Screenshot Required:**
+
+* Screenshot 6 — Your published LinkedIn post showing the caption and shared leaderboard progress
+
+---
+
 ## 8. Industry Insight
 
 In professional agentic DevOps teams, engineers do not use Claude Code blind. Before trusting it with infrastructure, they watch it work on safe, low-stakes tasks — reading files, counting lines, describing what it sees. This is how you build calibration: you learn what Claude does well, where it guesses, and when it needs more context. That calibration is exactly what the rest of this week builds on.
@@ -146,7 +183,7 @@ In professional agentic DevOps teams, engineers do not use Claude Code blind. Be
 Complete all tasks in sequence.
 
 Your submission must include:
-- All 5 required screenshots
+- All 6 required screenshots
 - Your GitHub forked repository URL
 
 ---
@@ -161,7 +198,11 @@ Full solution walkthrough → [Click here](../assignment-solutions/assignment-01
 
 ## 11. LinkedIn Requirement
 
-Not required for this assignment.
+Required for this assignment.
+
+Follow the instructions in **Task 4**, copy and paste the provided content, keep your automatically generated DMI Leaderboard progress link, and publish the post on LinkedIn.
+
+No additional screenshot is required.
 
 ---
 
@@ -171,7 +212,8 @@ Before submission, verify:
 - [ ] Claude Code CLI installed and `claude --version` works
 - [ ] Claude Code authenticated — opens without asking for login again
 - [ ] Starter repo forked and cloned
-- [ ] All 5 screenshots captured and added to your GitHub Repository file
+- [ ] All 6 screenshots captured and added to your GitHub Repository file
 - [ ] GitHub repo URL included
+- [ ] First Agentic AI achievement shared on LinkedIn using the provided content
 
 ---
