@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-I believe that consistency is more valuable than short periods of intense effort. Many people believe that success comes from working extremely hard only during important moments, but I think small improvements repeated every day create bigger results over time. Building skills, maintaining discipline, and continuously learning compound slowly, but they create a stronger foundation than depending on motivation or temporary pressure.
+I believe that consistency is more valuable than short periods of intense effort. Many people believe that success comes from working extremely hard only during important moments, but I think small improvements repeated every day create bigger results over time. I experienced this through academic and technical projects where regular progress produced better understanding than last-minute pressure. Building skills, maintaining discipline, and continuously learning compound slowly, but they create a stronger foundation than depending on motivation or temporary pressure.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Small consistent progress creates better long-term results than relying on motivation..
+Regular and consistent effort improves my learning retention and problem-solving ability more effectively than irregular intensive effort.
 
 ### Evidence from my life
 
-When I studied technical subjects only when deadlines were close, my understanding remained limited. After creating regular learning routines and spending time consistently on projects, I noticed better retention and stronger problem-solving ability.
+When I studied technical subjects only when deadlines were close, my understanding remained limited. After creating regular learning routines and spending dedicated time on projects, I noticed better retention, stronger problem-solving ability, and improved confidence in applying concepts practically.
 
 ---
 
@@ -165,11 +165,11 @@ In 2030, Faiyad Mahabub had established himself as a DevOps Engineer who success
 
 His journey started with a focus on developing strong technical foundations and building consistent learning habits. Instead of depending on short periods of motivation, he created systems that helped him continuously improve his skills through practical projects, experimentation, and documentation.
 
-Throughout his career, Faiyad built and shipped multiple software and infrastructure projects that demonstrated his ability to solve real-world engineering problems. He maintained a strong GitHub portfolio where he documented his projects, technical experiments, automation scripts, and DevOps workflows. His portfolio reflected his growth from learning concepts to implementing scalable solutions.
+Throughout his career, Faiyad built and shipped multiple software and infrastructure projects that demonstrated his ability to solve real-world engineering problems. His work included automated deployment pipelines, containerized applications, cloud infrastructure experiments, and system automation projects. He maintained a strong GitHub portfolio where he documented his projects, technical experiments, automation scripts, and DevOps workflows. His portfolio reflected his growth from learning concepts to implementing scalable solutions.
 
 As a DevOps Engineer, he contributed to improving development and deployment processes by implementing automation, improving system reliability, and supporting efficient collaboration between development and operations teams. He worked with modern technologies including cloud platforms, containerization tools, CI/CD pipelines, Linux environments, and infrastructure automation practices.
 
-Faiyad earned professional certifications that strengthened his understanding of cloud computing, DevOps methodologies, and modern software infrastructure. He also published technical articles and project documentation to share his learning experiences and contribute knowledge to the technology community.
+Faiyad earned professional certifications such as cloud and DevOps-related credentials that strengthened his understanding of cloud computing, DevOps methodologies, and modern software infrastructure. He also published technical articles and project documentation to share his learning experiences and contribute knowledge to the technology community.
 
 Beyond his individual work, he led technical initiatives, supported teammates, and contributed to learning communities by sharing resources and helping others understand complex technical concepts. His ability to communicate technical ideas clearly became one of his strongest professional qualities.
 
@@ -229,7 +229,7 @@ If Yes:
 
 ## Answer
 
-There were situations where I tried to complete tasks faster by depending too much on existing solutions instead of fully understanding the process behind them. Although it saved time initially, it created a feeling of uncertainty because I knew my understanding was incomplete. It made me realize that shortcuts can reduce immediate pressure but may create bigger problems when deeper knowledge is required. Since then, I have focused more on learning the fundamentals, documenting my work, and building solutions properly rather than only focusing on finishing quickly.
+There were situations where I tried to complete tasks faster by depending too much on existing solutions instead of fully understanding the process behind them. Although it saved time initially, it created stress and uncertainty because I knew my understanding was incomplete. It made me realize that shortcuts can reduce immediate pressure but may create bigger problems when deeper knowledge is required. Since then, I have focused more on learning the fundamentals, documenting my work, and building solutions properly rather than only focusing on finishing quickly.
 
 ---
 
@@ -365,8 +365,8 @@ Friday
 
 * Review weekly progress
 
-* Organize pending task * Update documentation
-son
+* Organize pending tasks
+* Update documentation
 
 Saturday
 
@@ -431,14 +431,14 @@ I will implement a weekly planning and review system every Sunday evening. I wil
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://lnkd.in/p/gfRQD4AG`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **https://www.linkedin.com/pulse/faiyad-mahabub-20-version-story-how-continuous-learning-mahabub-ggrec**  
+- LinkedIn Post URL: **https://lnkd.in/p/gfRQD4AG**
+- Article URL: **https://www.linkedin.com/pulse/faiyad-mahabub-20-version-story-how-continuous-learning-mahabub-ggrec**
 
 ---
 
