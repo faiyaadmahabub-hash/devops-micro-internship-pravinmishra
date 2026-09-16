@@ -254,7 +254,7 @@ Add the following credit note at the end of your post **(If you are DMI Cohort 3
 
 Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
 
 Add the following credit note at the end of your post **(If you are DMI Campus student)**:
 
@@ -266,7 +266,7 @@ Hashtags:
 
 #DMIByPravinMishra #AgenticAI #DevOps
 
-Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
+Replace `faiyaadmahabub-hash` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 ---
 
 ## LinkedIn Post URL
@@ -316,7 +316,7 @@ Pravin Mishra
 Co Mentor:
 Anjana Muthunayake
 
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/gVBiu7wW · Start your DevOps journey: https://lnkd.in/gtxEiPiv
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/gVBiu7wW · Start your DevOps journey: https://lnkd.in/gP2XS2nC
 
 #DMIByPravinMishra #DevOps #AgenticAI
 

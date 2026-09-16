@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that consistency is more valuable than short periods of intense effort. Many people believe that success comes from working extremely hard only during important moments, but I think small improvements repeated every day create bigger results over time. Building skills, maintaining discipline, and continuously learning compound slowly, but they create a stronger foundation than depending on motivation or temporary pressure.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Small consistent progress creates better long-term results than relying on motivation..
 
 ### Evidence from my life
 
-Add your answer here...
+When I studied technical subjects only when deadlines were close, my understanding remained limited. After creating regular learning routines and spending time consistently on projects, I noticed better retention and stronger problem-solving ability.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Practical experience is necessary to convert theoretical knowledge into real skills.
 
 ### Evidence from my life
 
-Add your answer here...
+I learned that reading concepts alone was not enough. Working on projects, creating reports, writing code, and solving real problems helped me understand concepts more deeply and identify gaps in my knowledge.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Managing time intentionally is one of the biggest factors affecting personal growth.
 
 ### Evidence from my life
 
-Add your answer here...
+When I planned my tasks and focused on important priorities, I was able to complete academic work, professional responsibilities, and personal learning more effectively. Without planning, important goals were often delayed.
 
 ---
 
@@ -133,17 +133,17 @@ Use the credit note that matches your track:
 
 Add the following credit note at the end of your post **(If you are DMI Cohort 3 student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 **Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
 
 Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced**
 
 Add the following credit note at the end of your post **(If you are DMI Campus student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
 
 **Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
 
@@ -153,13 +153,51 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+
+
+
+
+
+
+Faiyad Mahabub 2.0 Version: The Story of How Continuous Learning and Engineering Practice Built a DevOps Professional
+
+In 2030, Faiyad Mahabub had established himself as a DevOps Engineer who successfully combined software engineering, cloud technologies, automation, and system thinking to build reliable technology solutions.
+
+His journey started with a focus on developing strong technical foundations and building consistent learning habits. Instead of depending on short periods of motivation, he created systems that helped him continuously improve his skills through practical projects, experimentation, and documentation.
+
+Throughout his career, Faiyad built and shipped multiple software and infrastructure projects that demonstrated his ability to solve real-world engineering problems. He maintained a strong GitHub portfolio where he documented his projects, technical experiments, automation scripts, and DevOps workflows. His portfolio reflected his growth from learning concepts to implementing scalable solutions.
+
+As a DevOps Engineer, he contributed to improving development and deployment processes by implementing automation, improving system reliability, and supporting efficient collaboration between development and operations teams. He worked with modern technologies including cloud platforms, containerization tools, CI/CD pipelines, Linux environments, and infrastructure automation practices.
+
+Faiyad earned professional certifications that strengthened his understanding of cloud computing, DevOps methodologies, and modern software infrastructure. He also published technical articles and project documentation to share his learning experiences and contribute knowledge to the technology community.
+
+Beyond his individual work, he led technical initiatives, supported teammates, and contributed to learning communities by sharing resources and helping others understand complex technical concepts. His ability to communicate technical ideas clearly became one of his strongest professional qualities.
+
+One of his key achievements was building a strong connection between academic knowledge and industry practices. He transformed theoretical understanding into practical skills by developing projects, maintaining documentation, participating in technical communities, and continuously improving his engineering approach.
+
+By 2030, Faiyad’s professional identity was shaped by three principles: consistent learning, practical execution, and continuous improvement. His GitHub contributions, project portfolio, certifications, and community involvement represented years of disciplined effort.
+
+His journey demonstrated that career growth was not created through a single achievement, but through thousands of small improvements that accumulated over time.
+
+Mentor:
+
+Pravin Mishra
+
+Co-Mentor: 
+
+Anjana Muthunayake 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/faiyaadmahabub-hash.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
+
+
+
+#DMIByPravinMishra #AgenticAI #DevOps
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://www.linkedin.com/pulse/faiyad-mahabub-20-version-story-how-continuous-learning-mahabub-ggrec`
 
 ---
 
@@ -183,7 +221,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -191,7 +229,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+There were situations where I tried to complete tasks faster by depending too much on existing solutions instead of fully understanding the process behind them. Although it saved time initially, it created a feeling of uncertainty because I knew my understanding was incomplete. It made me realize that shortcuts can reduce immediate pressure but may create bigger problems when deeper knowledge is required. Since then, I have focused more on learning the fundamentals, documenting my work, and building solutions properly rather than only focusing on finishing quickly.
 
 ---
 
@@ -217,16 +255,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear.
+2. Deep Work — Cal Newport
+3. The Psychology of Money — Morgan Housel.
+4. Essentialism — Greg McKeown.
+5. So Good They Can't Ignore You — Cal Newport.
+6. The Lean Startup — Eric Ries
+7. How to Win Friends and Influence People — Dale Carnegie.
+8. The 7 Habits of Highly Effective People — Stephen R. Covey
+9. Measure What Matters — John Doerr
+10. The Pragmatic Programmer — Andrew Hunt and David Thomas
 
 ---
 
@@ -255,16 +293,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* New technical skills learned
+* Certifications completed.
+* Projects built and documented
+* GitHub contributions and portfolio updates
+* Technical articles or knowledge shared
+* Deep work sessions completed
+* Sleep quality and daily energy level
+* Exercise and physical activity consistency.
+* Personal finance tracking and savings progress.
 
 ---
 
@@ -286,11 +324,21 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+* Completing my academic projects and assignments on time
+* Improving my technical skills in DevOps, cloud computing, programming, and system design
+* Completing DMI assignments and maintaining my learning consistency 
+
+* Building and documenting technical projects for my portfolio and GitHub
+* Preparing for future career opportunities and certifications
+* Managing daily responsibilities and balancing different commitments
+* Improving my health, productivity, and time management habits
+* Reducing distractions and maintaining focus on important goals 
+* Organizing pending tasks and follow-ups that require attention
+
 
 ---
 
@@ -308,7 +356,27 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday
+
+* 60–90 minutes focused learning/work session
+* Review technical concepts and complete practical tasks
+
+Friday
+
+* Review weekly progress
+
+* Organize pending task * Update documentation
+son
+
+Saturday
+
+* DMI learning session
+* Work on DevOps projects and assignments
+
+Sunday 
+
+* Weekly reflection 
+* Plan priorities for the upcoming week.
 
 ---
 
@@ -316,11 +384,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday and Sunday
+8:00 PM – 10:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+3 sessions per week
 
 ---
 
@@ -334,7 +403,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep phone away during deep work sessions
+* Avoid unnecessary social media during learning hours
+
+* Use a task list before starting work
+
+* Keep workspace organized
+* Avoid multitasking during important technical work
 
 ---
 
@@ -342,15 +417,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that my progress depends more on having a reliable system than relying on motivation. When I organize my goals, schedule focused time, and track progress, I perform more consistently.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness was sometimes spending too much time planning and researching instead of moving quickly into execution. I noticed that taking small practical actions creates better progress than waiting for the perfect approach.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will implement a weekly planning and review system every Sunday evening. I will define my priorities, schedule focused learning sessions, and review my progress at the end of each week.
 
 ### LinkedIn Post
 
@@ -363,7 +438,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **https://www.linkedin.com/pulse/faiyad-mahabub-20-version-story-how-continuous-learning-mahabub-ggrec**  
 
 ---
 
