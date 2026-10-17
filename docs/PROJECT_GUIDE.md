@@ -67,7 +67,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-Week 00 → Internet & Networking Basics 
+Week 00 → Internet & Networking Basics
 
 
 -[![Week 00 – Networking](../badges/week-00.svg)](../week-00-internet-and-networking/)
