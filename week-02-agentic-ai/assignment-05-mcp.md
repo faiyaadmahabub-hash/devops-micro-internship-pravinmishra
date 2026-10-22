@@ -96,7 +96,7 @@ Share your MCP achievement on Facebook or WhatsApp Status and provide evidence o
 
 #### Screenshot 6 — Published Facebook post or WhatsApp Status showing your MCP achievement message and leaderboard progress link visible
 
-Add your screenshot here.
+![Screenshot 6 — WhatsApp Status with the MCP achievement and leaderboard progress link](screenshots/a5-ss6-whatsapp-status.png)
 
 ---
 
@@ -123,7 +123,7 @@ Paste your forked repository URL here:
 Confirm below:
 
 - [x] `settings.local.json` is added to `.gitignore`
-- [ ] GitHub token is NOT exposed in repository or screenshots
+- [x] GitHub token is NOT exposed in repository or screenshots
 
 ---
 
@@ -132,13 +132,13 @@ Confirm below:
 - [x] GitHub PAT created with correct scopes (`repo`, `read:user`)
 - [x] `.mcp.json` created at project root
 - [x] `.claude/settings.local.json` contains token (hidden in screenshot)
-- [ ] `.claude/settings.local.json` is NOT committed
+- [x] `.claude/settings.local.json` is NOT committed
 - [x] `/mcp` shows GitHub connection as active
 - [x] Live GitHub query returns real repository data
-- [ ] All required screenshots added
+- [x] All required screenshots added
 - [x] GitHub repository URL included
-- [ ] MCP achievement shared on Facebook or WhatsApp Status
-- [ ] Screenshot 6 added showing the published post/status
+- [x] MCP achievement shared on Facebook or WhatsApp Status
+- [x] Screenshot 6 added showing the published post/status
 
 ---
 
