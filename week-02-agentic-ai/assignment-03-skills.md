@@ -96,7 +96,7 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/faiyad-mahabub_dmibypravinmishra-devops-agenticai-share-7519049057403793409-ZiyN/`
 
 ---
 
@@ -111,7 +111,7 @@ Paste your forked repository URL here:
 - [x] `/tf-plan` executed and output analyzed by Claude
 - [x] All required screenshots added
 - [x] GitHub repository URL included
-- [ ] LinkedIn post URL included
+- [x] LinkedIn post URL included
 
 ---
 
