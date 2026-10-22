@@ -121,7 +121,7 @@ Make sure your published post includes:
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
-Add your screenshot here.
+![Screenshot 7 — Published LinkedIn post with the 3 subagents, GitHub repo and leaderboard progress link](screenshots/a4-ss7-linkedin-post.png)
 
 ---
 
@@ -151,7 +151,7 @@ Paste your forked repository URL here:
 - [x] Cost optimizer executed successfully
 - [x] Security report is visible with findings
 - [x] Cost report is visible with recommendations
-- [ ] All required screenshots added
+- [x] All required screenshots added
 - [x] GitHub repo updated with agents
 
 
